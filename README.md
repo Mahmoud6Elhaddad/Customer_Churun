@@ -51,8 +51,4 @@ Both are combined and preprocessed before training.
 - **Random Forest** achieved:  
   - Accuracy ≈ **92–93%**  
   - Recall ≈ **98%** (very strong at catching churners)  
-  - AUC-ROC ≈ **0.95**  
-
----
-
-## 📂 Project Structure
+  - AUC-ROC ≈ **0.95**
